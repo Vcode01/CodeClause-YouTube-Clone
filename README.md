@@ -1,4 +1,4 @@
-YouTube Clone
+# YouTube Clone
 This is a YouTube clone built using React, Tailwind CSS, and an API. The project aims to recreate the core functionality of YouTube, allowing users to search for videos, view video thumbnails and details, and watch videos.
 
 # Features
